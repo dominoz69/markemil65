@@ -1,10 +1,8 @@
 # Hello, I'm Mark Emil! 👋
-
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZXkraFrlIW1D4W9zaB/giphy.gif" width="100" alt=""/>
 </div>
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="400" height="250"/>
 </div>
@@ -23,17 +21,18 @@
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Python"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="JavaScript"/>
   <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="100" alt="TypeScript"/>
+  <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="100" alt="React"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Git"/>
 </div>
+
 
 ## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markemil65&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markemil65&theme=radical" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markemil65&layout=compact&theme=radical" alt="Top Languages" />
 </div>

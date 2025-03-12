@@ -1,4 +1,4 @@
-# Hello, I'm Mark Emil! 👋
+# Hello, I'm Domino! 👋
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/ZXkraFrlIW1D4W9zaB/giphy.gif" width="100" alt=""/>
@@ -28,11 +28,11 @@
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markemil65&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dominoz69&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markemil65&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominoz69&theme=radical" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markemil65&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominoz69&layout=compact&theme=radical" alt="Top Languages" />
 </div>

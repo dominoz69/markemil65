@@ -25,6 +25,8 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Git"/>
 </div>
 
+## 🎧 Spotify
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x7qo7ihhh2drlhe2coyoohxvdm&cover_image=true&theme=novatorem)
 
 ## Stats
 <div align="center">

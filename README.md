@@ -1,10 +1,12 @@
 # Hello, I'm Domino! 👋
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/ZXkraFrlIW1D4W9zaB/giphy.gif" width="100" alt=""/>
+    <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" alt="Cartoon 1"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100" alt="Cartoon 2"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Cartoon 3" width="400" height="250"/>
 </div>
 
 ## 🛠️ Technologies & Tools
@@ -23,6 +25,8 @@
   <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="100" alt="TypeScript"/>
   <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="100" alt="React"/>
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Git"/>
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" alt="Cartoon 1"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100" alt="Cartoon 2"/>
 </div>
 
 ## 🎧 Spotify

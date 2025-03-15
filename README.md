@@ -26,7 +26,7 @@
 </div>
 
 ## 🎧 Spotify
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31x7qo7ihhh2drlhe2coyoohxvdm&cover_image=true&theme=novatorem)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x7qo7ihhh2drlhe2coyoohxvdm&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ## Stats
 <div align="center">

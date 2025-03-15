@@ -1,9 +1,6 @@
 # Hello, I'm Domino! 👋
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" alt="Cartoon 1"/>
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100" alt="Cartoon 2"/>
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="400" height="250"/>
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Cartoon 3" width="400" height="250"/>
